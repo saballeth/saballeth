@@ -9,3 +9,7 @@
     Este repositorio ✨<em>especial</em>✨ es visible en mi perfil porque su <code>README.md</code> actúa como carta de presentación en GitHub.
   </p>
 </section>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=blue-green)
+
