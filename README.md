@@ -6,7 +6,7 @@
   </p>
   <hr style="margin: 20px 0;">
   <p style="font-size: 1em; color: gray;">
-    Este repositorio ✨<em>especial</em>✨ es visible en mi perfil porque su <code>README.md</code> actúa como carta de presentación en GitHub.
+    ✨<em>Estadistica sobre mi perfil</em>✨.
   </p>
 </section>
 
