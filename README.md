@@ -1,10 +1,4 @@
-<section style="font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto;">
-  <h1 style="font-size: 2em; color: #4B0082;"> Bienvenido a mi centro de código 👋</h1>
-  <hr style="margin: 20px 0;">
-  <p style="font-size: 1em; color: gray;">
-    <em>Estadistica sobre mi perfil</em>✨.
-  </p>
-</section>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saballeth&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saballeth&layout=compact&theme=blue-green)
