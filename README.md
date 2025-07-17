@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**saballeth/saballeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<section style="font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto;">
+  <h1 style="font-size: 2em; color: #4B0082;"> Bienvenido a mi centro de código 👋</h1>
+  <p style="font-size: 1.2em;">
+    <strong>Semillerista en investigación 🧠</strong> | <strong>Especialista en Procesamiento de Lenguaje Natural</strong>
+    enfocado en el desarrollo de <strong>Inteligencia Artificial</strong> para <strong>Sistemas Embebidos 🤖</strong>.
+  </p>
+  <hr style="margin: 20px 0;">
+  <p style="font-size: 1em; color: gray;">
+    Este repositorio ✨<em>especial</em>✨ es visible en mi perfil porque su <code>README.md</code> actúa como carta de presentación en GitHub.
+  </p>
+</section>
