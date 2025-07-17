@@ -1,7 +1,7 @@
 <section style="font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto;">
-  <div style="text-align: center;">
-    <h1 style="font-size: 2em; color: #4B0082;">Bienvenido a mi centro de código 👋</h1>
-  </div>
+  <p align="center">
+    <h1 style="color: #4B0082;">Bienvenido a mi centro de código 👋</h1>
+  </p>
   <p style="font-size: 1em; color: gray;">
     <em>Estadistica sobre mi perfil</em>✨.
   </p>
