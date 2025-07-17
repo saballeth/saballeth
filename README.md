@@ -15,11 +15,11 @@
 
 🌱 Estoy aprendiendo
 
-    ROS, visión por computador, ROS2
+  - ROS, visión por computador, ROS2
 
-    Aprendizaje por refuerzo aplicado a control
+  - Aprendizaje por refuerzo aplicado a control
 
-    Despliegue con Docker y GitHub Actions
+  - Despliegue con Docker y GitHub Actions
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/camilo-saballeth-lora-21b443314/)
