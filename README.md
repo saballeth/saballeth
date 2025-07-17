@@ -13,3 +13,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saballeth&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saballeth&layout=compact&theme=blue-green)
 
+```markdown
+### 📫 Contáctame
+- [LinkedIn](https://www.linkedin.com/in/camilo-saballeth-lora-21b443314/)
+- [Email](saballethloracamilo@gmail.com)
+
+### 😉 Chiste de programador
+![Jokes Card](https://readme-jokes.vercel.app/api)
