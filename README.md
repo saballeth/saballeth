@@ -1,12 +1,8 @@
 <section style="font-family: Arial, sans-serif; padding: 20px; max-width: 600px; margin: auto;">
   <h1 style="font-size: 2em; color: #4B0082;"> Bienvenido a mi centro de código 👋</h1>
-  <p style="font-size: 1.2em;">
-    <strong>Semillerista en investigación 🧠</strong> | <strong>Especialista en Procesamiento de Lenguaje Natural</strong>
-    enfocado en el desarrollo de <strong>Inteligencia Artificial</strong> para <strong>Sistemas Embebidos 🤖</strong>.
-  </p>
   <hr style="margin: 20px 0;">
   <p style="font-size: 1em; color: gray;">
-    ✨<em>Estadistica sobre mi perfil</em>✨.
+    <em>Estadistica sobre mi perfil</em>✨.
   </p>
 </section>
 
