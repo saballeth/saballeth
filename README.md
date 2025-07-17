@@ -25,5 +25,5 @@
 - [LinkedIn](https://www.linkedin.com/in/camilo-saballeth-lora-21b443314/)
 - [Email](saballethloracamilo@gmail.com)
 
-### 😉 Chiste de programador
+### Chiste gratuito
 ![Jokes Card](https://readme-jokes.vercel.app/api)
