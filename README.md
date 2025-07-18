@@ -11,6 +11,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![MicroPython](https://img.shields.io/badge/micropython-2C3E50?style=for-the-badge&logo=MicroPython&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)&nbsp;
@@ -32,10 +33,10 @@
 
 ## 🎥 Demostraciones
 
-| Proyecto | Video | Imagen |
-|---------|-------|--------|
-| Aprendizaje no supervisado con K-Means | [🎬 YouTube](https://youtu.be/xFEkilP-yfg?si=B8aM2w2gkl9h2hkE) | 📊 |
-| Presentacion de datos no supervisados con python | [🎬 YouTube](https://youtu.be/NFrSNh5nzB0?si=s1RpwU7KZuJH4rnd) | 🐍 |
+| Proyecto | Video |
+|---------|-------|
+| Aprendizaje no supervisado con K-Means | [🎬 YouTube](https://youtu.be/xFEkilP-yfg?si=B8aM2w2gkl9h2hkE) |
+| Presentacion de datos no supervisados con python | [🎬 YouTube](https://youtu.be/NFrSNh5nzB0?si=s1RpwU7KZuJH4rnd) |
 
 ### 🧰 &nbsp;Version de control & herramientas 
 
