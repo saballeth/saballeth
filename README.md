@@ -32,11 +32,7 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-4e4e4e?style=for-the-badge)
 
 ## 🎥 Demostraciones
-
-| Proyecto | Video |
-|---------|-------|
-| Aprendizaje no supervisado con K-Means | [🎬 YouTube](https://youtu.be/xFEkilP-yfg?si=B8aM2w2gkl9h2hkE) |
-| Presentacion de datos no supervisados con python | [🎬 YouTube](https://youtu.be/NFrSNh5nzB0?si=s1RpwU7KZuJH4rnd) |
+Canal de youtube: https://www.youtube.com/@camiloSaballeth
 
 ### 🧰 &nbsp;Version de control & herramientas 
 
@@ -47,7 +43,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 🌱 Estoy aprendiendo
 
   - ROS, visión por computador, ROS2
@@ -55,6 +50,8 @@
   - Aprendizaje por refuerzo aplicado a control
 
   - Despliegue con Docker y GitHub Actions
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/camilo-saballeth-lora-21b443314/)
