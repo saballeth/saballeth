@@ -1,8 +1,17 @@
 <h1 align="center" style="color: #4B0082;">Mi Historial</h1>
 <p align="auto"><em>Estadística sobre mi perfil</em> ✨</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saballeth&show_icons=true&theme=tokyonight&cache_bust=1)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saballeth&show_icons=true&theme=tokyonight&cache_bust=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saballeth&layout=compact&theme=tokyonight)
+
+
+
+<!-- Alternative 1: GitHub Readme Stats (same service, different endpoint) -->
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=saballeth&show_icons=true&theme=tokyonight)
+
+<!-- Alternative 2: GitHub Profile Summary Cards -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saballeth&theme=tokyonight)
 
 ### 🛠 &nbsp; Pila tecnológica
 
