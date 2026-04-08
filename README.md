@@ -2,7 +2,6 @@
 <p align="auto"><em>Estadística sobre mi perfil</em> ✨</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saballeth&show_icons=true&theme=tokyonight&cache_bust=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saballeth&layout=compact&theme=tokyonight)
 
 
 ### 🛠 &nbsp; Pila tecnológica
