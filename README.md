@@ -18,7 +18,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![VHDL](https://img.shields.io/badge/VHDL-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white)&nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnuemacs&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 ### 🗃 &nbsp;Base de datos
 
