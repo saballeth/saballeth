@@ -38,9 +38,7 @@ Canal de youtube: https://www.youtube.com/@camiloSaballeth
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)&nbsp;
 ![Vivado](https://img.shields.io/badge/Vivado-FCC624?style=for-the-badge&logo=xilinx&logoColor=black)&nbsp;
 
-🌱 Estoy aprendiendo
-
-  - Aprendizaje por refuerzo aplicado a control
+🌱 Estoy investigando sobre inteligencia artificial aplicada al analisis multimodal en bases de datos de resonancia magnetica funcional y electroencefalograma
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
