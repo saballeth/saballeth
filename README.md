@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4B0082;">Readme</h1>
+<h1 align="center" style="color: #4B0082;">Mi Historial</h1>
 <p align="auto"><em>Estadística sobre mi perfil</em> ✨</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saballeth&show_icons=true&theme=blue-green)
@@ -34,6 +34,9 @@ Canal de youtube: https://www.youtube.com/@camiloSaballeth
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![EDA Playground](https://img.shields.io/badge/EDA%20Playground-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)&nbsp;
+![Vivado](https://img.shields.io/badge/Vivado-FCC624?style=for-the-badge&logo=xilinx&logoColor=black)&nbsp;
 
 🌱 Estoy aprendiendo
 
